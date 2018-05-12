@@ -1,0 +1,29 @@
+_repo: Der-j-ngste-TagEin-groteskes-Spiel_43570
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matthias, Leo
+    aliases:
+    - Matthias, L. L.‏ (Leon Lawrence)
+    - Matthias, Leon Lawrence
+    birthdate: 1893
+    deathdate: 1970
+    gutenberg_agent_id: '42303'
+    url: http://www.gutenberg.org/2009/agents/42303
+description: ''
+gutenberg_issued: '2013-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43570'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- 20th century'
+- !lcc 'PT'
+title: 'Der jüngste Tag: Ein groteskes Spiel'
+url: http://www.gutenberg.org/ebooks/43570
